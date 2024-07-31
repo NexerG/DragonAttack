@@ -1,0 +1,1527 @@
+fileFormatVersion: 2
+guid: 16958fd5d511e144c8618932cbd67989
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8530425019938167993
+    second: damage_1_0
+  - first:
+      213: -4435451286171494625
+    second: damage_1_1
+  - first:
+      213: -394612496565291689
+    second: damage_1_2
+  - first:
+      213: 1541810762312902831
+    second: damage_1_3
+  - first:
+      213: -5117398029419828119
+    second: damage_1_4
+  - first:
+      213: -2083001415496874166
+    second: damage_1_5
+  - first:
+      213: 7487518540870258979
+    second: damage_1_6
+  - first:
+      213: 8583170892355460267
+    second: damage_1_7
+  - first:
+      213: 6662689889993431322
+    second: damage_1_8
+  - first:
+      213: 1330423903131411001
+    second: damage_1_9
+  - first:
+      213: 5435804342156313097
+    second: damage_1_10
+  - first:
+      213: 6124991658425743084
+    second: damage_1_11
+  - first:
+      213: -2499694827795076195
+    second: damage_1_12
+  - first:
+      213: 2829564619520813955
+    second: damage_1_13
+  - first:
+      213: 123798520903612148
+    second: damage_1_14
+  - first:
+      213: 4518857504326494340
+    second: damage_1_15
+  - first:
+      213: 6496166425828195809
+    second: damage_1_16
+  - first:
+      213: 361062129504153652
+    second: damage_1_17
+  - first:
+      213: 5387295620002316554
+    second: damage_1_18
+  - first:
+      213: -6611174892265788611
+    second: damage_1_19
+  - first:
+      213: 9079677452608589496
+    second: damage_1_20
+  - first:
+      213: -2122202035382314883
+    second: damage_1_21
+  - first:
+      213: 6191860690100090872
+    second: damage_1_22
+  - first:
+      213: -5384845030687966019
+    second: damage_1_23
+  - first:
+      213: -2771217201061516220
+    second: damage_1_24
+  - first:
+      213: 261462490618901436
+    second: damage_1_25
+  - first:
+      213: -1374188031884084663
+    second: damage_1_26
+  - first:
+      213: -731071557218280289
+    second: damage_1_27
+  - first:
+      213: -7017019554356203261
+    second: damage_1_28
+  - first:
+      213: -3547963239103424308
+    second: damage_1_29
+  - first:
+      213: -5580134613679052051
+    second: damage_1_30
+  - first:
+      213: 6571602255707058727
+    second: damage_1_31
+  - first:
+      213: 1465765026342750617
+    second: damage_1_32
+  - first:
+      213: 4825835830021095028
+    second: damage_1_33
+  - first:
+      213: 3498862202256958595
+    second: damage_1_34
+  - first:
+      213: 3660055841645245013
+    second: damage_1_35
+  - first:
+      213: -2416855715353397211
+    second: damage_1_36
+  - first:
+      213: 415823533470752751
+    second: damage_1_37
+  - first:
+      213: -6389378328290112939
+    second: damage_1_38
+  - first:
+      213: -6286698579759526217
+    second: damage_1_39
+  - first:
+      213: -8678940069813913838
+    second: damage_1_40
+  - first:
+      213: 5535507311770568850
+    second: damage_1_41
+  - first:
+      213: -8232526165035812941
+    second: damage_1_42
+  - first:
+      213: -9108206755802583992
+    second: damage_1_43
+  - first:
+      213: -4550373325852846206
+    second: damage_1_44
+  - first:
+      213: 8834743560974676119
+    second: damage_1_45
+  - first:
+      213: -5106323334775080147
+    second: damage_1_46
+  - first:
+      213: 1002109303811495792
+    second: damage_1_47
+  - first:
+      213: 140119257150359733
+    second: damage_1_48
+  - first:
+      213: 7685368887971140520
+    second: damage_1_49
+  - first:
+      213: 3830375897152538990
+    second: damage_1_50
+  - first:
+      213: -2657648082741415310
+    second: damage_1_51
+  - first:
+      213: -3796546865143580698
+    second: damage_1_52
+  - first:
+      213: 7578974939312741416
+    second: damage_1_53
+  - first:
+      213: 6558672980910648107
+    second: damage_1_54
+  - first:
+      213: -6790294073992811758
+    second: damage_1_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damage_1_0
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 1014
+        height: 2701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7432b77f3a7dd9980800000000000000
+      internalID: -8530425019938167993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_1
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2629
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17d2352e8c1272c0800000000000000
+      internalID: -4435451286171494625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_2
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2629
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755bb4e660e068af0800000000000000
+      internalID: -394612496565291689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_3
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2629
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8e88e28bc956510800000000000000
+      internalID: 1541810762312902831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_4
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 2629
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ca52afa995bf8b0800000000000000
+      internalID: -5117398029419828119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_5
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2659
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a474ca2bf31b713e0800000000000000
+      internalID: -2083001415496874166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_6
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2269
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32119bd317209e760800000000000000
+      internalID: 7487518540870258979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_7
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2259
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd155737c8d1770800000000000000
+      internalID: 8583170892355460267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_8
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2259
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1915ad8721a67c50800000000000000
+      internalID: 6662689889993431322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_9
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 2259
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93226d2bd7d967210800000000000000
+      internalID: 1330423903131411001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_10
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2119
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c0c2cf3bdf6b40800000000000000
+      internalID: 5435804342156313097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_11
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2089
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce672b43677500550800000000000000
+      internalID: 6124991658425743084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_12
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2089
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba46e4ccc4f4dd0800000000000000
+      internalID: -2499694827795076195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_13
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2089
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b2d8f9702a44720800000000000000
+      internalID: 2829564619520813955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_14
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 2089
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6bd2e4912d7b100800000000000000
+      internalID: 123798520903612148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_15
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2119
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4882dff45f436be30800000000000000
+      internalID: 4518857504326494340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_16
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1729
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edfe4532f4072a50800000000000000
+      internalID: 6496166425828195809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_17
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1719
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430f0f20810c20500800000000000000
+      internalID: 361062129504153652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_18
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1719
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a018142c2d483ca40800000000000000
+      internalID: 5387295620002316554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_19
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1719
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b248686736044a0800000000000000
+      internalID: -6611174892265788611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_20
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1579
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8becbd5798e710e70800000000000000
+      internalID: 9079677452608589496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_21
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1549
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d781d632e7c6c82e0800000000000000
+      internalID: -2122202035382314883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_22
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1549
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7fe14ed78ede550800000000000000
+      internalID: 6191860690100090872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_23
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1549
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcf05789ff2545b0800000000000000
+      internalID: -5384845030687966019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_24
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1549
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ca64f53a8aa89d0800000000000000
+      internalID: -2771217201061516220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_25
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1579
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3bd6bffb6e0a300800000000000000
+      internalID: 261462490618901436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_26
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1509
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ab4f80447edece0800000000000000
+      internalID: -1374188031884084663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_27
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1189
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cdc96ca46bad5f0800000000000000
+      internalID: -731071557218280289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_28
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1179
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301f0a0a4e98e9e90800000000000000
+      internalID: -7017019554356203261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_29
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1179
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc898116b3a13cec0800000000000000
+      internalID: -3547963239103424308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_30
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1179
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea6cc832216f82b0800000000000000
+      internalID: -5580134613679052051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_31
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1039
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72233980f65033b50800000000000000
+      internalID: 6571602255707058727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_32
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1069
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999c9578681775410800000000000000
+      internalID: 1465765026342750617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_33
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1009
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e72c87e10d8f240800000000000000
+      internalID: 4825835830021095028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_34
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1009
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384219b92a47e8030800000000000000
+      internalID: 3498862202256958595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_35
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1009
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552bb5b65612bc230800000000000000
+      internalID: 3660055841645245013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_36
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1039
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fcfc288a957ed0800000000000000
+      internalID: -2416855715353397211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_37
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1009
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef95c1fc4d45c500800000000000000
+      internalID: 415823533470752751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_38
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 969
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a40b6434e5457a0800000000000000
+      internalID: -6389378328290112939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_39
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 649
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be0b7733f821c8a0800000000000000
+      internalID: -6286698579759526217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_40
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 639
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21776df4df53e8780800000000000000
+      internalID: -8678940069813913838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_41
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 639
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29889a9529212dc40800000000000000
+      internalID: 5535507311770568850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_42
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 639
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77ee8121130cd80800000000000000
+      internalID: -8232526165035812941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_43
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 569
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce2938636299180800000000000000
+      internalID: -9108206755802583992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_44
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 499
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287d02da193d9d0c0800000000000000
+      internalID: -4550373325852846206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_45
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 469
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790b091d5705b9a70800000000000000
+      internalID: 8834743560974676119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_46
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 469
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b71724bf1b229b0800000000000000
+      internalID: -5106323334775080147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_47
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 469
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0775cc73a1538ed00800000000000000
+      internalID: 1002109303811495792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_48
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 469
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b883a4d8bdc1f100800000000000000
+      internalID: 140119257150359733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_49
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 499
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3db57e84ae7aa60800000000000000
+      internalID: 7685368887971140520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_50
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 429
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69cef1959a382530800000000000000
+      internalID: 3830375897152538990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_51
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 109
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272333a46232e1bd0800000000000000
+      internalID: -2657648082741415310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_52
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 99
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e77ef9bdb4ff4bc0800000000000000
+      internalID: -3796546865143580698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_53
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 99
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cd25b5d8ded2960800000000000000
+      internalID: 7578974939312741416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_54
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 99
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba129a356150b50800000000000000
+      internalID: 6558672980910648107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1_55
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 29
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21be737248704c1a0800000000000000
+      internalID: -6790294073992811758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 511868d58db93704487e794085b9a025
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      damage_1_0: -8530425019938167993
+      damage_1_1: -4435451286171494625
+      damage_1_10: 5435804342156313097
+      damage_1_11: 6124991658425743084
+      damage_1_12: -2499694827795076195
+      damage_1_13: 2829564619520813955
+      damage_1_14: 123798520903612148
+      damage_1_15: 4518857504326494340
+      damage_1_16: 6496166425828195809
+      damage_1_17: 361062129504153652
+      damage_1_18: 5387295620002316554
+      damage_1_19: -6611174892265788611
+      damage_1_2: -394612496565291689
+      damage_1_20: 9079677452608589496
+      damage_1_21: -2122202035382314883
+      damage_1_22: 6191860690100090872
+      damage_1_23: -5384845030687966019
+      damage_1_24: -2771217201061516220
+      damage_1_25: 261462490618901436
+      damage_1_26: -1374188031884084663
+      damage_1_27: -731071557218280289
+      damage_1_28: -7017019554356203261
+      damage_1_29: -3547963239103424308
+      damage_1_3: 1541810762312902831
+      damage_1_30: -5580134613679052051
+      damage_1_31: 6571602255707058727
+      damage_1_32: 1465765026342750617
+      damage_1_33: 4825835830021095028
+      damage_1_34: 3498862202256958595
+      damage_1_35: 3660055841645245013
+      damage_1_36: -2416855715353397211
+      damage_1_37: 415823533470752751
+      damage_1_38: -6389378328290112939
+      damage_1_39: -6286698579759526217
+      damage_1_4: -5117398029419828119
+      damage_1_40: -8678940069813913838
+      damage_1_41: 5535507311770568850
+      damage_1_42: -8232526165035812941
+      damage_1_43: -9108206755802583992
+      damage_1_44: -4550373325852846206
+      damage_1_45: 8834743560974676119
+      damage_1_46: -5106323334775080147
+      damage_1_47: 1002109303811495792
+      damage_1_48: 140119257150359733
+      damage_1_49: 7685368887971140520
+      damage_1_5: -2083001415496874166
+      damage_1_50: 3830375897152538990
+      damage_1_51: -2657648082741415310
+      damage_1_52: -3796546865143580698
+      damage_1_53: 7578974939312741416
+      damage_1_54: 6558672980910648107
+      damage_1_55: -6790294073992811758
+      damage_1_6: 7487518540870258979
+      damage_1_7: 8583170892355460267
+      damage_1_8: 6662689889993431322
+      damage_1_9: 1330423903131411001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
